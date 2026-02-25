@@ -17,5 +17,5 @@ In this task, we created a Java program to perform basic file handling operation
 
 # output 
 
-
+i have uploaded my output in images folder
 
